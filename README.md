@@ -1,1 +1,1 @@
-This Repository contains Projects of my Web2 Advanced class with Javascript.
+This Repository contains files for my Web2 Advanced class with Javascript.
