@@ -1,1 +1,0 @@
-This directory contains all the files for the Passenger counter app.
